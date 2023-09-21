@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cумма для двух чисел");
+            Console.WriteLine("Cумма  двух чисел");
             Console.WriteLine("Введите первое число:");
             double a = Convert.ToDouble(Console.ReadLine());
 
